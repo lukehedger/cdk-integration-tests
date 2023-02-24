@@ -1,0 +1,12 @@
+{
+  "name": "cdk-integration-tests",
+  "private": "true",
+  "version": "1.0.0",
+  "scripts": {
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@aws-cdk/integ-tests-alpha": "2.66.0-alpha.0",
+    "aws-cdk-lib": "2.66.0"
+  }
+}
