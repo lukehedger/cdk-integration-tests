@@ -14,6 +14,7 @@
     "@tsconfig/node14": "1.0.3",
     "@types/aws-lambda": "8.10.111",
     "@types/node": "18.14.1",
+    "aws-cdk": "2.66.1",
     "aws-cdk-lib": "2.66.1",
     "esbuild": "0.17.10",
     "ts-node": "10.9.1",

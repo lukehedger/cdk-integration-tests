@@ -1,5 +1,4 @@
 {
   "exclude": ["cdk.out", "node_modules"],
-  "extends": "@tsconfig/node14",
-  "include": ["./"]
+  "extends": "@tsconfig/node14"
 }
