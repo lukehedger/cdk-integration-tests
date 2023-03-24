@@ -1,0 +1,4 @@
+Next steps:
+- Try watch/deploy
+- Try to curl - does it work?
+- Try integ test
